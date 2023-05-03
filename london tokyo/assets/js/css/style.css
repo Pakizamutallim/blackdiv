@@ -1,0 +1,27 @@
+.butonlar button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+    font-size: 17px;
+} 
+
+.butonlar button:hover {
+    background-color: #ff9494;
+}
+
+.butonlar {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+} 
+
+.text {
+    display: none;
+    padding: 6px 12px;s
+    border: 1px solid #ccc;
+    border-top none;
+} 
